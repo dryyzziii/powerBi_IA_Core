@@ -1,0 +1,6 @@
+@powerBi_IA_Core_HostAddress = http://localhost:5260
+
+GET {{powerBi_IA_Core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
